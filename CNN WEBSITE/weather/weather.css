@@ -1,0 +1,59 @@
+body {
+    margin: 0 auto;
+    background-color: rgb(43, 41, 41);
+}
+
+.icon >img {
+    width: 60%;
+    height: 10px;
+}
+
+.nav-bar {
+    background-color: black;
+    -webkit-text-fill-color: snow;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+    padding-left: 75px;
+}
+
+
+a:hover {
+    color: skyblue;
+}
+
+.heading {
+    color: snow;
+    margin-left: 430px;
+    height: 50px;
+}
+
+.main-content {
+    padding-left: 250px;
+}
+
+img {
+    width: 80%;
+    height: 510px;
+}
+
+
+a {
+    color: gray;
+    text-decoration: none;
+}
+
+.desc-cont {
+    color: snow;
+    display: flex;
+    justify-content: center;
+}
+.weather >img{
+    width: 50%;
+    height: 160px;
+    margin-left: 400px;
+
+}
